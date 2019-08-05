@@ -1,0 +1,10 @@
+C:\Users\praktikant\Desktop\Blasius Projekten\Game\Dodge Game\Dodge Game\bin\Debug\Dodge Game.exe.config
+C:\Users\praktikant\Desktop\Blasius Projekten\Game\Dodge Game\Dodge Game\bin\Debug\Dodge Game.exe
+C:\Users\praktikant\Desktop\Blasius Projekten\Game\Dodge Game\Dodge Game\bin\Debug\Dodge Game.pdb
+C:\Users\praktikant\Desktop\Blasius Projekten\Game\Dodge Game\Dodge Game\obj\Debug\Dodge Game.csprojAssemblyReference.cache
+C:\Users\praktikant\Desktop\Blasius Projekten\Game\Dodge Game\Dodge Game\obj\Debug\Dodge_Game.Properties.Resources.resources
+C:\Users\praktikant\Desktop\Blasius Projekten\Game\Dodge Game\Dodge Game\obj\Debug\Dodge Game.csproj.GenerateResource.cache
+C:\Users\praktikant\Desktop\Blasius Projekten\Game\Dodge Game\Dodge Game\obj\Debug\Dodge Game.csproj.CoreCompileInputs.cache
+C:\Users\praktikant\Desktop\Blasius Projekten\Game\Dodge Game\Dodge Game\obj\Debug\Dodge Game.exe
+C:\Users\praktikant\Desktop\Blasius Projekten\Game\Dodge Game\Dodge Game\obj\Debug\Dodge Game.pdb
+C:\Users\praktikant\Desktop\Blasius Projekten\Game\Dodge Game\Dodge Game\obj\Debug\Dodge_Game.MainGame.resources
